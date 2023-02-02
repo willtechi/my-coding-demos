@@ -5,13 +5,13 @@ div {
   text-align: center;
 }
 
-#Div1 {
+#div1 {
   border: solid #b4c8df;
   width: 510px;
   height: 330px;
 }
 
-#Div2 {
+#div2 {
   border: solid #a0989b;
   width: 400px;
   height: 220px;
@@ -19,7 +19,7 @@ div {
   background-color: #f49544;
 }
 
-#Div3 {
+#div3 {
   border: solid #988782;
   width: 250px;
   height: 110px;
