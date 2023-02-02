@@ -1,0 +1,28 @@
+div {
+  border: solid #b4c8df;
+  background-color: #c5d8f2;
+  font-weight: bold;
+  text-align: center;
+}
+
+#Div1 {
+  border: solid #b4c8df;
+  width: 510px;
+  height: 330px;
+}
+
+#Div2 {
+  border: solid #a0989b;
+  width: 400px;
+  height: 220px;
+  margin: 0 auto;
+  background-color: #f49544;
+}
+
+#Div3 {
+  border: solid #988782;
+  width: 250px;
+  height: 110px;
+  margin: 0 auto;
+  background-color: #f49544;
+}
