@@ -1,9 +1,9 @@
 # Clickable Rectangles
 
-# Description
+## Description
 Clicking on rectangle will alert the name of the rectangle
 
-# Tech Stack Used:
-HTML
-CSS
-JavaScript
+## Tech Stack Used:
+- HTML
+- CSS
+- JavaScript
